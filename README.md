@@ -12,8 +12,7 @@ Combined set of Data Analytical reports or dashboards.
 
 ### Types of Reports / Dashboards in Domains
 1. Covid- 19.
-2. Aviation.
-3. Customer Insights.
+2. Customer Insights.
 
 ### What is Required?
 - Downloading Csv's and performing ETL process in Tableau.
