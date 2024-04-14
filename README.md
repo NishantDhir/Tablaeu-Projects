@@ -1,4 +1,4 @@
-# Tablaeu-Projects
+# Tableau-Projects
 <p align="center"
 
 Combined set of Data Analytical reports or dashboards.
